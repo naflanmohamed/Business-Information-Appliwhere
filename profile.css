@@ -1,0 +1,18 @@
+.profile-details{
+    font-size: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+.profile-container{
+    flex-basis: 70%;
+    font-size: large;
+}
+
+.profile-head {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
